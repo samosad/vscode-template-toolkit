@@ -34,11 +34,14 @@ Converted from [TextMate Template Toolkit Bundle](https://github.com/textmate/pe
 
 ## Release Notes
 
-## 0.0.3
+### 0.0.4
 - README fix
 
-## 0.0.2
+### 0.0.3
+- README fix
+
+### 0.0.2
 - repo link
 
-## 0.0.1
+### 0.0.1
 - Initial release

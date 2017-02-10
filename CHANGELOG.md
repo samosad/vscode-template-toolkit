@@ -5,6 +5,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## 0.0.4
+- README fix
+
 ## 0.0.2
 - repo link
 
