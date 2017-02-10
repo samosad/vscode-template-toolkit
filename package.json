@@ -6,7 +6,7 @@
     "publisher": "samosad",
     "repository": {
         "type": "git",
-        "url": "git@github.com:samosad/vscode-template-toolkit.git"
+        "url": "https://github.com/samosad/vscode-template-toolkit"
     },
     "engines": {
         "vscode": "^1.5.0"
