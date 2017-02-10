@@ -2,7 +2,7 @@
     "name": "tt",
     "displayName": "Template Toolkit",
     "description": "VS Code support for Perl Template Toolkit syntax",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "samosad",
     "repository": {
         "type": "git",
