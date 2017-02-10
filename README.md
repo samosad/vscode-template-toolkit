@@ -1,6 +1,6 @@
 # Template Toolkit for VS Code
 
-Support Perl Template Toolkit syntax and snippets in Visual Studio Code.
+Support for [Perl Template Toolkit](http://www.template-toolkit.org/index.html) syntax and snippets in Visual Studio Code.
 
 Converted from [TextMate Template Toolkit Bundle](https://github.com/textmate/perl-template-toolkit.tmbundle)
 
