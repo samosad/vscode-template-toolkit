@@ -1,0 +1,57 @@
+{
+    "name": "tt",
+    "displayName": "Template Toolkit",
+    "description": "VS Code support for Perl Template Toolkit syntax",
+    "version": "0.0.1",
+    "publisher": "samosad",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "license": "MIT",
+    "categories": [
+        "Languages",
+        "Snippets"
+    ],
+    "keywords": [
+        "tt",
+        "perl",
+        "template",
+        "template toolkit"
+    ],
+    "icon": "logo.png",
+    "galleryBanner": {
+        "color": "#00aaf0",
+        "theme": "light"
+    },
+    "contributes": {
+        "languages": [{
+            "id": "tt",
+            "aliases": ["Template Toolkit", "tt", "tt3"],
+            "extensions": [".tt",".tt3",".html",".html.tt",".css"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "tt",
+            "scopeName": "source.tt3",
+            "path": "./syntaxes/TT3.tmLanguage"
+        }, {
+            "language": "tt",
+            "scopeName": "source.tt2",
+            "path": "./syntaxes/TT2.tmLanguage"
+        }, {
+            "language": "tt",
+            "scopeName": "text.html.tt3",
+            "path": "./syntaxes/HTML+TT3.tmLanguage"
+        }, {
+            "language": "tt",
+            "scopeName": "text.html.tt2",
+            "path": "./syntaxes/HTML+TT2.tmLanguage"
+        }],
+        "snippets": [
+            {
+                "language": "tt",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
