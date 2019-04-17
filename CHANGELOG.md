@@ -5,6 +5,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## 0.0.5
+- Exclude extensions `.html` and` .css`
+
 ## 0.0.4
 - README fix
 
